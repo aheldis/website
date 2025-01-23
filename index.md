@@ -21,7 +21,7 @@ I am mostly interested in the intersection of Machine Learning with other fields
 
 | University | Field of Study | More Details |
 | ------------------------------------------- | --------------------------------- |  --------------------------------- |
-| University of California, Los Angeles (UCLA) | Computer Science (Doctorate of Philosophy)| GPA: 3.78/4 - Supervisor: Prof. Majid Sarrafzadeh |
+| University of California, Los Angeles (UCLA) | Computer Science (Doctorate of Philosophy)| GPA: 3.8/4 - Supervisor: Prof. Majid Sarrafzadeh |
 | ------------------------------------------- | --------------------------------- |  --------------------------------- |
 | Sharif University of Technology| Computer Engineering (Bachelor of Science)| GPA (154 Total Credits): 18.24/20 (3.72/4) - Supervisor: Prof. Shohreh Kasaei |
 | ------------------------------------------- | --------------------------------- |  --------------------------------- |
